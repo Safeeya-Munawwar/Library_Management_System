@@ -110,7 +110,7 @@ The system follows the **Model-View-Controller (MVC)** design pattern:
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shafiya-Munawwar0036/Library_Management_System.git
+   https://github.com/Shafiya-Munawwar0036/Library_Management_System.git
    ```
 2. Open the project in **NetBeans**.
 3. Configure the database in **MySQL**:
