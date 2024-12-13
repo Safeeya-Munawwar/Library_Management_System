@@ -126,15 +126,6 @@ The system follows the **Model-View-Controller (MVC)** design pattern:
 
 ---
 
-## Contribution
-Contributions are welcome! Follow these steps:
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Submit a pull request.
-
----
-
 ## Author
 **Shafiya Munawwar**  
 [GitHub Profile](https://github.com/shafiya-munawwar0036)
