@@ -107,6 +107,13 @@ The system follows the **Model-View-Controller (MVC)** design pattern:
 
 ---
 
+## Project Report
+```bash
+https://github.com/Shafiya-Munawwar0036/Library_Management_System/blob/main/Library%20Management%20System%20Project%20Report.pdf
+```
+
+---
+
 ## Installation and Setup
 1. Clone the repository:
    ```bash
